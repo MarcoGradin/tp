@@ -5,7 +5,7 @@
     font-size: large;
 }
 
-#contenedor{
+.contenedor{
     width: 90%;
     margin: 0, auto;
     display: flex;
@@ -24,10 +24,13 @@
 }
 
 .estilopresentacion{
-    margin-top: 50px;
-    display: flex;
-    justify-content: space-around;
-    width: 90%;
+    width: 100%;
     background-color: black;
-    text-decoration: solid;
+    text-decoration: white;
+    color: white;
+}
+.historia
+{
+    color: rgb(17, 14, 14);
+    background-color: rgb(204, 239, 250);
 }
