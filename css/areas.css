@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(172, 22, 22);
+}
+
+.especializacion{
+    text-decoration: rgb(172, 22, 22);
+}
+
+.aclaracion1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: rgb(172, 22, 22);
+    background-color: rgb(248, 210, 210);
+}
+.aclaracion2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 50px;
+}

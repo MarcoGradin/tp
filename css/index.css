@@ -1,0 +1,33 @@
+
+
+.mimarca{
+    text-decoration-color: rgb(185, 5, 5);
+    font-size: large;
+}
+
+#contenedor{
+    width: 90%;
+    margin: 0, auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#contenedor img{
+    width: 100%;
+}
+
+.footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.estilopresentacion{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    background-color: black;
+    text-decoration: solid;
+}
